@@ -16,7 +16,7 @@ Retrospective: Reflect on the results of the experiments and identify improvemen
 
 ## Introduction
 
-At this point in your project's evolution, you should have a well-defined research project, supported by literature, with a working and well-documented prototype that you have used to conduct an experimental study. Your experimental study should have included several experiments you have run generating experimental results that you then used for analysis and discussion.
+At this point in your project's evolution, you should have a well-defined research project, supported by literature, with a working and well-documented prototype that you have used to conduct an experimental study. Your experimental study should have included several experiments that you have run generating experimental results that you then used for analysis and discussion.
 
 Now, we will take a moment to reflect on the results of your experiments, helping each other identify shortcomings and implications of the experiments. These points will be critical when we begin the writing focus of the project next week.
 
@@ -33,7 +33,7 @@ Now, we will take a moment to reflect on the results of your experiments, helpin
 - **Part2**; For class **Tuesday**: Complete the writing requirement.
 
   - Interviewee must complete the `writing/reflection.md` document answering all questions.
-  - Interviewer must submit their suggestions for improvements to the project or new experiments to try as a GitHub issue in interviewee's repository. You must submit at least three(3) suggestions.
+  - Interviewer must submit their suggestions for improvements to the project or new experiments to try as a GitHub issue in interviewee's repository. You must submit at least three (3) suggestions.
 
 --------------------------------------------------------------------------------
 
